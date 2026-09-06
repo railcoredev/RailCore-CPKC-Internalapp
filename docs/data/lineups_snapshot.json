@@ -1,10 +1,10 @@
 {
  "meta": {
   "collection_state": "awaiting_login",
-  "collection_message": "Awaiting login after session loss.",
+  "collection_message": "Session lost; waiting at the RSA prompt.",
   "feed": "railcore_lineups",
   "feed_version": 1,
-  "generated_at": "2026-09-06T09:45:07+00:00",
+  "generated_at": "2026-09-06T09:46:23+00:00",
   "names_mode": "full",
   "source_runs": {
    "train_lineup": "sched_20260905_202213",
@@ -2234,8 +2234,8 @@
         "craft": "EN",
         "hos": {
          "band": "orange",
-         "label": "1h 40m",
-         "minutes": 100
+         "label": "1h 39m",
+         "minutes": 99
         },
         "name": "LEMM,(SAM)"
        },
@@ -2243,8 +2243,8 @@
         "craft": "AE",
         "hos": {
          "band": "orange",
-         "label": "1h 40m",
-         "minutes": 100
+         "label": "1h 39m",
+         "minutes": 99
         },
         "name": "HARDEN,(LEVI)"
        }
@@ -2283,8 +2283,8 @@
         "craft": "EN",
         "hos": {
          "band": "yellow",
-         "label": "2h 05m",
-         "minutes": 125
+         "label": "2h 04m",
+         "minutes": 124
         },
         "name": "SEXTON,(SAM)",
         "tags": [
@@ -2295,8 +2295,8 @@
         "craft": "AE",
         "hos": {
          "band": "yellow",
-         "label": "2h 05m",
-         "minutes": 125
+         "label": "2h 04m",
+         "minutes": 124
         },
         "name": "BARAKS,(RON)",
         "tags": [
@@ -2367,18 +2367,18 @@
        {
         "craft": "EN",
         "hos": {
-         "band": "yellow",
-         "label": "2h 00m",
-         "minutes": 120
+         "band": "orange",
+         "label": "1h 59m",
+         "minutes": 119
         },
         "name": "ROSS,(JANA)"
        },
        {
         "craft": "AE",
         "hos": {
-         "band": "yellow",
-         "label": "2h 00m",
-         "minutes": 120
+         "band": "orange",
+         "label": "1h 59m",
+         "minutes": 119
         },
         "name": "NEUBERG,(RUSSELL)"
        }
@@ -2416,18 +2416,18 @@
        {
         "craft": "EN",
         "hos": {
-         "band": "yellow",
-         "label": "2h 00m",
-         "minutes": 120
+         "band": "orange",
+         "label": "1h 59m",
+         "minutes": 119
         },
         "name": "BUTLER,(JASON)"
        },
        {
         "craft": "AE",
         "hos": {
-         "band": "yellow",
-         "label": "2h 00m",
-         "minutes": 120
+         "band": "orange",
+         "label": "1h 59m",
+         "minutes": 119
         },
         "name": "BLASER,(RYAN)"
        }
