@@ -4,7 +4,7 @@
   "collection_message": "Session lost; waiting at the RSA prompt.",
   "feed": "railcore_lineups",
   "feed_version": 1,
-  "generated_at": "2026-09-06T19:09:49+00:00",
+  "generated_at": "2026-09-06T19:50:38+00:00",
   "names_mode": "full",
   "source_runs": {
    "train_lineup": "sched_20260905_202213",
