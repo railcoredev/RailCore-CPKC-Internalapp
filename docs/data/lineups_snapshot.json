@@ -1,10 +1,10 @@
 {
  "meta": {
-  "collection_state": "active",
-  "collection_message": "Light sweep sched_20260906_161717.",
+  "collection_state": "awaiting_login",
+  "collection_message": "Session lost; waiting at the RSA prompt.",
   "feed": "railcore_lineups",
   "feed_version": 1,
-  "generated_at": "2026-09-06T21:24:50+00:00",
+  "generated_at": "2026-09-06T21:53:21+00:00",
   "names_mode": "full",
   "source_runs": {
    "train_lineup": "sched_20260906_161717",
@@ -18185,7 +18185,7 @@
   {
    "name": "BARAKS,(RON)QBV@D",
    "craft": "AE",
-   "home_terminal": ""
+   "home_terminal": "DA"
   },
   {
    "name": "BARNES,(JD)NQRD",
@@ -19835,7 +19835,7 @@
   {
    "name": "ODINSON,(VIDAR)",
    "craft": "TT",
-   "home_terminal": "DA"
+   "home_terminal": "OT"
   },
   {
    "name": "OLDFIELD,(COLTON)BVAE",
@@ -21443,7 +21443,7 @@
    "assignment": "XX01",
    "since": "2026-09-06",
    "time": "10:17",
-   "terminal": "DA",
+   "terminal": "OT",
    "carryover": false,
    "last_confirmed": "2026-09-06"
   },
