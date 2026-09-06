@@ -1,10 +1,10 @@
 {
  "meta": {
   "collection_state": "awaiting_login",
-  "collection_message": "Awaiting login after session loss.",
+  "collection_message": "Session lost; waiting at the RSA prompt.",
   "feed": "railcore_lineups",
   "feed_version": 1,
-  "generated_at": "2026-09-06T11:11:40+00:00",
+  "generated_at": "2026-09-06T11:12:55+00:00",
   "names_mode": "full",
   "source_runs": {
    "train_lineup": "sched_20260905_202213",
@@ -2234,8 +2234,8 @@
         "craft": "EN",
         "hos": {
          "band": "orange",
-         "label": "0h 13m",
-         "minutes": 13
+         "label": "0h 12m",
+         "minutes": 12
         },
         "name": "LEMM,(SAM)"
        },
@@ -2243,8 +2243,8 @@
         "craft": "AE",
         "hos": {
          "band": "orange",
-         "label": "0h 13m",
-         "minutes": 13
+         "label": "0h 12m",
+         "minutes": 12
         },
         "name": "HARDEN,(LEVI)"
        }
@@ -2283,8 +2283,8 @@
         "craft": "EN",
         "hos": {
          "band": "orange",
-         "label": "0h 38m",
-         "minutes": 38
+         "label": "0h 37m",
+         "minutes": 37
         },
         "name": "SEXTON,(SAM)",
         "tags": [
@@ -2295,8 +2295,8 @@
         "craft": "AE",
         "hos": {
          "band": "orange",
-         "label": "0h 38m",
-         "minutes": 38
+         "label": "0h 37m",
+         "minutes": 37
         },
         "name": "BARAKS,(RON)",
         "tags": [
@@ -2368,8 +2368,8 @@
         "craft": "EN",
         "hos": {
          "band": "orange",
-         "label": "0h 33m",
-         "minutes": 33
+         "label": "0h 32m",
+         "minutes": 32
         },
         "name": "ROSS,(JANA)"
        },
@@ -2377,8 +2377,8 @@
         "craft": "AE",
         "hos": {
          "band": "orange",
-         "label": "0h 33m",
-         "minutes": 33
+         "label": "0h 32m",
+         "minutes": 32
         },
         "name": "NEUBERG,(RUSSELL)"
        }
@@ -2417,8 +2417,8 @@
         "craft": "EN",
         "hos": {
          "band": "orange",
-         "label": "0h 33m",
-         "minutes": 33
+         "label": "0h 32m",
+         "minutes": 32
         },
         "name": "BUTLER,(JASON)"
        },
@@ -2426,8 +2426,8 @@
         "craft": "AE",
         "hos": {
          "band": "orange",
-         "label": "0h 33m",
-         "minutes": 33
+         "label": "0h 32m",
+         "minutes": 32
         },
         "name": "BLASER,(RYAN)"
        }
